@@ -1,0 +1,17 @@
+404 lab4
+1.
+
+2.
+
+3. Shows an error when opening. When navigating to /polls, shows "hello world. You're at the polls index" on a blank screen.
+
+4. 
+
+5. see the polls and authentication and authorization. Can add questions to polls and choices for the poll. Will also prompt to log in.
+
+6. "you're looking at question 38", "you're looking at the results of quesiton 38", "you're looking at the results of question 38"
+no number = page not found. --> Change int to str
+
+7. it will be really hard to type it out every single time when you need to change it. If something changes, youll have to go to every single file and change it.
+
+8. 
